@@ -12,11 +12,11 @@ This repository contains a hands-on tutorial that demonstrates how to use NVIDIA
 
 ---
 
-# **How to Register and Obtain API Access**
+# **How to Register and Obtain NVIDIA API Access**
 
 To use NVIDIA's Nemotron reasoning model and other AI services in this hands-on tutorial, you need to register for an API key. Follow the steps below to obtain access:
 
----
+
 
 ## **Step-by-Step Guide**
 
