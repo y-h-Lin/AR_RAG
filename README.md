@@ -9,6 +9,45 @@ This repository contains a hands-on tutorial that demonstrates how to use NVIDIA
 3. **Custom Knowledge Base**: Explore how to load, transform, and query custom documents (e.g., PDFs) using LangChain.
 4. **Hands-On Implementation**: Build a reusable Python class (`QueryExecutor`) to interact with the reasoning model and seamlessly integrate RAG.
 
+
+---
+
+# **How to Register and Obtain API Access**
+
+To use NVIDIA's Nemotron reasoning model and other AI services in this hands-on tutorial, you need to register for an API key. Follow the steps below to obtain access:
+
+---
+
+## **Step-by-Step Guide**
+
+1. **Register or Log In**:
+   - Go to [NVIDIA Build](https://build.nvidia.com).
+   - Create an account (preferably using an academic email address) or log in if you already have one.
+   - **Note**: If there are too many simultaneous registrations, the system may temporarily block new accounts. Please try again later if this happens.
+
+2. **Verify API Rate Limit**:
+   - After logging in, check the top-right corner of the page. You should see a message like:
+     ```
+     Your API Rate Limit UP TO 40 RPM
+     ```
+   - This indicates your current API request rate limit.
+
+3. **Generate an API Key**:
+   - Click on **"Manage API Keys"** in your account dashboard.
+   - Select **"Generate API Key"**.
+   - Provide a name for your key and set an expiration date (optional).
+
+4. **Copy Your API Key**:
+   - Once generated, copy your API key (e.g., `nvapi-*****`).
+   - You will need this key during the hands-on tutorial to authenticate and interact with NVIDIA's AI models.
+
+## **Important Notes**
+- Keep your API key secure and do not share it publicly.
+- If you encounter issues during registration or key generation, refer to NVIDIA's support documentation or contact their support team.
+
+With your API key ready, proceed to the hands-on tutorial and paste it into the designated cell when prompted.
+
+
 ---
 
 ## Notebook Structure
