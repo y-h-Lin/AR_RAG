@@ -1,4 +1,4 @@
-# **Advanced Reasoning with RAG: Hands-On Tutorial**
+# **Advanced Reasoning with RAG: Hands-On**
 
 ## Overview
 This repository contains a hands-on tutorial that demonstrates how to use NVIDIA's reasoning model, [Nemotron](https://build.nvidia.com/nvidia/llama-3_1-nemotron-nano-8b-v1), in combination with Retrieval-Augmented Generation (RAG) techniques. The notebook walks you through building an intelligent chatbot capable of answering questions based on a custom knowledge base while leveraging advanced reasoning capabilities.
